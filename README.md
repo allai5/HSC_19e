@@ -1,2 +1,2 @@
-# HSC-PCB
-High Speed Controller (HSC) PCB Altium Designer files
+# HSC_19e PCB
+High Speed Controller (HSC) 19e PCB Altium Designer files
